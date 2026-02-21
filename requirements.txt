@@ -1,0 +1,14 @@
+streamlit
+sounddevice
+numpy
+scipy
+faster-whisper
+pillow
+google-generativeai
+pyttsx3
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+python-dotenv
