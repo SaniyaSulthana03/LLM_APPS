@@ -1,0 +1,54 @@
+Time: 2026-02-20 11:55:32
+Text Input (English): Hiii i am chat assisstant
+--------------------------------------------------
+Time: 2026-02-20 11:55:57
+Text Input (English): My name is krithika
+--------------------------------------------------
+Time: 2026-02-20 11:56:12
+Text Input (English): hello
+--------------------------------------------------
+Time: 2026-02-20 11:57:21
+Text Input (English): & "C:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/venv/Scripts/python.exe" "c:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/speech_to_text/tts.py"
+--------------------------------------------------
+Time: 2026-02-20 11:57:29
+Text Input (English): 
+--------------------------------------------------
+Time: 2026-02-20 11:57:32
+Text Input (English): xit
+--------------------------------------------------
+Time: 2026-02-20 11:57:42
+Text Input (English): 'exit'
+--------------------------------------------------
+Time: 2026-02-20 12:35:24
+TTS Output (English):  Hello, my name is Tanya
+--------------------------------------------------
+Time: 2026-02-20 12:36:58
+TTS Output (English):  Hai
+--------------------------------------------------
+Time: 2026-02-21 12:10:00
+Text Input (English): Hello 
+--------------------------------------------------
+Time: 2026-02-21 12:10:03
+Text Input (English): Hii
+--------------------------------------------------
+Time: 2026-02-21 12:10:11
+Text Input (English): What are you doing 
+--------------------------------------------------
+Time: 2026-02-21 12:10:40
+Text Input (English): & "C:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/venv/Scripts/python.exe" "c:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/realmic.py"
+--------------------------------------------------
+Time: 2026-02-21 12:10:53
+Text Input (English): Hello
+--------------------------------------------------
+Time: 2026-02-21 12:11:05
+Text Input (English): & "C:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/venv/Scripts/python.exe" "c:/Users/Saniya/OneDrive - Global WeConnect Technologies Pvt ltd/Desktop/LLM Projects/tts.py"
+--------------------------------------------------
+Time: 2026-02-21 12:11:10
+Text Input (English): Hii
+--------------------------------------------------
+Time: 2026-02-21 16:37:03
+Text Input (English): Hello
+--------------------------------------------------
+Time: 2026-02-21 16:37:11
+Text Input (English): Hiiii
+--------------------------------------------------

@@ -1,0 +1,175 @@
+Time: 2026-02-21 10:36:24
+Image: handwritten.png
+Summary:
+**Detailed Description:**
+
+The image displays a close-up view of a page from a lined notebook, filled with handwritten notes in blue ink. The paper is white with horizontal blue lines spaced evenly apart, and a single vertical red line marking the left margin. The texture of the paper is visible, suggesting a slight graininess.
+
+At the top of the page, centered, is the title "Machine Learning Basics," which is underlined twice. Below the title, a bulleted list outlines several topics related to machine learning:
+
+*   The first bullet point reads: "Introduction to ML concepts."
+*   The second bullet point states: "Difference between supervised & unsupervised learning."
+*   The third bullet point discusses: "Discussed key algorithms: Linear Regression, Decision Trees, and KNN."
+*   The fourth bullet point highlights: "Importance of training data & model evaluation."
+*   The fifth bullet point, detailing "Next steps," lists: "Practice with datasets. Review concepts."
+
+Below this list, a single horizontal blue line is drawn across the page, acting as a separator. Underneath this line, there is an un-checked square checkbox followed by the note: "Meeting on Monday 10 AM." The handwriting is consistent throughout, appearing as a clear, slightly italicized script.
+
+**Concise Summary:**
+
+The image shows a handwritten page from a lined notebook titled "Machine Learning Basics," outlining topics such as an introduction to ML concepts, supervised vs. unsupervised learning, key algorithms (Linear Regression, Decision Trees, KNN), the importance of training data and model evaluation, and next steps for practice and review. A separate note at the bottom indicates a "Meeting on Monday 10 AM" with an accompanying checkbox.
+==================================================
+
+
+
+Time: 2026-02-21 10:42:24
+Image: invoice.png
+Summary:
+This image displays a document, likely a construction estimate, from "PBC Construction."
+
+**Detailed Description:**
+The document features "PBC Construction" prominently at the top left, with fields for "Date," "Estimate Number," and "Estimate For" on the top right, which are blank. It is divided into several sections, starting with "From" and "To" sections. The "From" section details "PBC Construction" with an address of 1834 Monacroft, Los Angeles, California, United States, 90010, and a phone number (000) 000-0000. The "To" section is addressed to Sally Reeder, with an address of Minna Spring Hi, Los Angeles, California, United States, 90010, and a phone number (000) 000-0000.
+
+Below these sections is a table with four columns: "Description," "Unit Cost," "QTY," and "Total." The table lists several items:
+*   "Master Room" with a Unit Cost of $1,200 and a Total of $1,200.
+*   "Allowance" with a Unit Cost of $25,000 and a Total of $25,000.
+*   "Media Room A" with a Unit Cost of $0.00 and a Total of $0.00.
+*   Subsequent items "Bath Room A" through "Bath Room F" all show a Unit Cost of $0.00, QTY of $0.00, and a Total of $0.00.
+
+A "Notes" section is present below the table, containing the text: "Thank you for working with you on this project. We look forward to working on the next project."
+
+On the bottom right, there is a summary of costs including:
+*   Subtotal: $26,400.00
+*   Discount: $0.00
+*   Subtotal (Discount): $0.00
+*   Tax rate: $0.00
+*   Total tax: $0.00
+*   Total estimate: $26,400.00
+
+The very bottom of the document includes "Template courtesy of templated.com."
+
+**Summary:**
+This document is a construction estimate from PBC Construction to Sally Reeder, detailing costs for a "Master Room" and "Allowance." The total estimate for the project is $26,400.00.
+==================================================
+Time: 2026-02-21 11:21:56
+Image: invoice.png
+Summary:
+This image displays an estimate document from "PBC Construction."
+
+**Detailed Description:**
+The document is structured into several sections. At the top left, the company name "PBC Construction" is prominently displayed. To its right, there are fields for "Date," "Estimate Number," and "Estimate for," all left blank with lines for entry.
+
+Below the header, there are two main address blocks. The "From" section, titled with a teal bar, lists "PBC Construction" with the address "1834 Monodcourt, Los Angeles, California, United Status, 90019" and a phone number "(213) 555-5555." The "To" section, also with a teal bar, is addressed to "Sally Reader" at "1834 Mountain Rd, Los Angeles, California, United Status, 90019" with the same phone number.
+
+The central part of the document is a table with four columns: "Description," "Unit Price," "Quantity," and "Total."
+Under "Description," items include "Material Rems," "Materials," "Waste Removal," and multiple entries of "Item Name."
+For "Material Rems," the "Unit Price" is $1,200, "Quantity" is blank, and "Total" is $1,200.
+For "Materials," the "Unit Price" is $25,000, "Quantity" is blank, and "Total" is $25,000.
+"Waste Removal" shows $0.00 for "Unit Price" and "Total," with "Quantity" blank.
+All "Item Name" entries show $0.00 for "Unit Price," "Quantity," and "Total."
+
+Below the main table, a "Notes" section, indicated by a teal bar, contains the text: "Such a pleasure working with you on this project. To work on the next project."
+
+On the bottom right, a summary box details the financial calculations:
+"Subtotal: $26,401.00"
+"Discount: $0.00"
+"Subtotal (Discount): $0.00"
+"Tax rate: $0.00"
+"Total tax: $0.00"
+"Total estimate: $26,401.00"
+
+Finally, at the very bottom center, "template courtesy of Template.com" is written in smaller text.
+
+**Concise Summary:**
+This document is an estimate from PBC Construction for Sally Reader, detailing costs primarily for materials. The total estimated amount is $26,401.00, with no discounts or taxes applied.
+==================================================
+Time: 2026-02-21 15:35:56
+Image: invoice.png
+Summary:
+This image displays an estimate document from PBC Construction addressed to Sally Kessler, both located in Los Angeles, California.
+The estimate details costs for worker hours, materials, and waste removal, totaling an estimated project cost of $31,000.00.
+==================================================
+Time: 2026-02-21 15:36:35
+Image: invoice.png
+Summary:
+The image displays an estimate document from PBC Construction addressed to Sally Reader. It details various services such as market research, advertising, and website redesign with their respective unit prices and totals.
+
+The document calculates a subtotal and a final estimated amount of $38,405.00, along with a note expressing pleasure in the collaboration.
+==================================================
+Time: 2026-02-21 15:39:03
+Image: invoice.png
+Summary:
+This document is an estimate form from PBC Construction, addressed to Sally Reader with contact and address details for both parties.
+It itemizes material, labor, and permit/fee costs, leading to a total estimate of $28,402.00 for a future project.
+==================================================
+Time: 2026-02-21 15:40:36
+Image: invoices.png
+Summary:
+This is a sales invoice from Argento Neue (LuxuryStore) to Veronica Costello, detailing an order placed on December 14, 2020.
+The invoice lists a Luma Analog Watch and a Fusion Backpack, totaling $110.67 including tax and shipping.
+==================================================
+Time: 2026-02-21 15:45:56
+Image: invoices.png
+Summary:
+This image displays a sales invoice from Argento Neue/LuxuryStore addressed to Veronica Costello, dated December 14, 2020. The invoice details the purchase of a Luma Analog Watch and a Fusion Backpack, totaling $110.67 after including shipping and tax, with payment by check or money order.
+
+The grand total due for this order is $110.67, encompassing a subtotal of $93.00, $10.00 for shipping and handling, and $7.67 in tax.
+==================================================
+Time: 2026-02-21 15:46:57
+Image: invoices.png
+Summary:
+This document is a sales invoice from Argento Neue / LuxuryStore to Veronica Costello, dated December 14, 2020.
+It details the purchase of a Luma Analog Watch and a Fusion Backpack, totaling $110.67 including shipping and tax.
+==================================================
+Time: 2026-02-21 16:06:43
+Image: invoices.png
+Summary:
+This image is a sales invoice from Argento Neue to Veronica Costello, dated December 14, 2020.
+It details the purchase of a Luma Analog Watch and a Fusion Backpack, totaling $110.67 after shipping and tax.
+==================================================
+Time: 2026-02-21 16:09:02
+Image: invoices.png
+Summary:
+This image is a sales invoice from Argento Neue / LuxuryStore to Veronica Costello, dated December 14, 2020. It lists the purchase of a Luma Analog Watch for $43.00 and a Fusion Backpack for $50.00. The invoice details a subtotal of $93.00, with additional charges for shipping and handling ($10.00) and tax ($7.67), resulting in a grand total of $110.67. The payment method is listed as "Check / Money order" and shipping as "Flat Rate - Fixed," along with contact information and a thank you message.
+
+**Summary:**
+This sales invoice from Argento Neue / LuxuryStore to Veronica Costello, dated December 14, 2020, details an order.
+It includes a Luma Analog Watch and a Fusion Backpack, totaling $110.67 with shipping and tax.
+==================================================
+Time: 2026-02-21 16:11:21
+Image: invoices.png
+Summary:
+This image is a sales invoice from Argento Neue to Veronica Costello, issued on December 14, 2020. It details the purchase of a Luma Analog Watch and a Fusion Backpack, with a grand total of $110.67 including shipping and tax.
+
+This sales invoice from Argento Neue details an order for Veronica Costello, placed on December 14, 2020.
+It lists a Luma Analog Watch and a Fusion Backpack, totaling $110.67 after shipping and tax.
+==================================================
+Time: 2026-02-21 16:14:18
+Image: invoices.png
+Summary:
+The image displays a sales invoice from Argento Neue, issued by LuxuryStore to Veronica Costello on December 14, 2020. It details the purchase of one Luma Analog Watch for $43.00 and one Fusion Backpack for $50.00, with a shipping method of Flat Rate - Fixed and payment by Check / Money order. The invoice totals a subtotal of $93.00, plus $10.00 for shipping & handling, and $7.67 for tax, leading to a grand total of $110.67.
+
+This sales invoice from Argento Neue details the purchase of a Luma Analog Watch and a Fusion Backpack by Veronica Costello, totaling $110.67.
+It includes itemized costs, shipping, and tax, with the order placed on December 14, 2020.
+==================================================
+Time: 2026-02-21 16:17:38
+Image: invoices.png
+Summary:
+This document is a sales invoice from Argento Neue/LuxuryStore to Veronica Costello, detailing an order placed on December 14, 2020.
+It itemizes a Luma Analog Watch and a Fusion Backpack, with a grand total of $110.67, including shipping and tax.
+==================================================
+Time: 2026-02-21 16:30:31
+Image: invoices.png
+Summary:
+This image displays a sales invoice from Argento Neue / LuxuryStore, dated December 14, 2020, for customer Veronica Costello.
+The invoice details the purchase of one Luma Analog Watch and one Fusion Backpack, with a grand total of $110.67.
+==================================================
+Time: 2026-02-21 16:37:43
+Image: invoices.png
+Summary:
+This image is a sales invoice from Argento Neue (LuxuryStore) to Veronica Costello, dated December 14, 2020. It details the purchase of a Luma Analog Watch and a Fusion Backpack, with a grand total of $110.67 including shipping and tax.
+
+**Summary:**
+This is a sales invoice from Argento Neue/LuxuryStore to Veronica Costello for items purchased on December 14, 2020.
+The invoice details a Luma Analog Watch and a Fusion Backpack, totaling $110.67 with shipping and tax.
+==================================================
