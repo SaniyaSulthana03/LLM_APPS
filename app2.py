@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 from mic import transcribe_audio
-from tts import text_to_speech
+from tts1 import text_to_speech
 from ocr import extract_text_from_image
 from text_summarization import summarize_text_with_rag
 
@@ -78,10 +78,7 @@ with tab2:
 with tab3:
     st.header("Text to Speech")
 
-    input_text = st.text_area(
-        "Enter text",
-        height=150
-    )
+    input_text = st.text_area("Enter text", height=150)
 
     if st.button("Convert to Speech"):
         if input_text.strip():
@@ -119,4 +116,5 @@ with tab4:
 
 
 st.markdown("---")
+
 st.caption("Built using Whisper, Vision AI, LangChain, FastAPI and Streamlit")
