@@ -106,7 +106,8 @@
 
 
 
-from google import genai
+# from google import genai
+import google.generativeai as genai
 from PIL import Image
 from datetime import datetime
 import os
