@@ -115,7 +115,7 @@ import os
 HISTORY_FILE = "image_summary_history.txt"
 # API_KEY = os.getenv("API_KEY")
 
-API_KEY="AIzaSyBkifeLBmeFcWv7MXQFAncMHTeWMvqKX4Y" 
+API_KEY="AIzaSyBITEWIvN8U9y9gsU4dWP2M28rslxgKElo" 
 client = genai.Client(api_key=API_KEY)
 
 
